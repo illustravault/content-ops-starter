@@ -540,9 +540,13 @@ sections:
       - title: Example Three
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          *   This bakery menu features a delicious variety of freshly baked
+          goods, showcasing tempting pastries, cakes, and bread that promise to
+          satisfy every craving.
+
+
+
         image:
           url: /images/Add a little bit of body text.png
           altText: Placeholder image
