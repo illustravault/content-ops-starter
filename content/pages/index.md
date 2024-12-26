@@ -489,9 +489,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-
-          This Monster Drink poster features bold visuals and dynamic design,
-          capturing the high-energy spirit of the brand.
+          *   This Monster Drink poster features bold visuals and dynamic
+          design, capturing the high-energy spirit of the brand.
 
         image:
           url: /images/MONSTER.png
