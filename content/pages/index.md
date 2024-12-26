@@ -241,7 +241,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: ''
+      text: ' graphic designer'
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
