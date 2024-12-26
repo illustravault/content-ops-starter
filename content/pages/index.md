@@ -488,8 +488,11 @@ sections:
       - title: Example One
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+
+          This Monster Drink poster features bold visuals and dynamic design,
+          capturing the high-energy spirit of the brand.
+
         image:
           url: /images/MONSTER.png
           altText: Placeholder Image
