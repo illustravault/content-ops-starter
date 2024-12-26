@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: illustravault_
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      I’m a graphic designer dedicated to creating impactful and unique designs.
+      From logos and branding to digital and print materials, I work closely
+      with clients to bring their ideas to life with creative, high-quality
+      designs that make a lasting impression.
+
     actions:
       - label: Get started
         altText: ''
