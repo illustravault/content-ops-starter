@@ -295,7 +295,7 @@ sections:
           versatility and skill. The site is easy to navigate, and the clean
           design reflects the designer's expertise."
         tagline: Nishu
-        subtitle: 'Maria Walters, Company'
+        subtitle: Nishu sharma
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
