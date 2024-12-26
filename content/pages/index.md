@@ -290,9 +290,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: This website is trustfull and f
         tagline: Nishu
         subtitle: 'Maria Walters, Company'
         text: >-
