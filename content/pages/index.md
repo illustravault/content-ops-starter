@@ -485,7 +485,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Example One
         tagline: ''
         subtitle: ''
         text: |
