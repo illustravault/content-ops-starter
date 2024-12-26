@@ -513,8 +513,12 @@ sections:
       - title: Example Two
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          *   This sofa poster showcases elegant design and comfort,
+          highlighting the perfect blend of style and relaxation.
+
+
+
         image:
           url: /images/SOFA.png
           altText: Placeholder image
