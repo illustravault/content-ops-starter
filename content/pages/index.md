@@ -290,7 +290,11 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: This website is trustfull and f
+      - title: >-
+          "The portfolio highlights a variety of styles, demonstrating
+          versatility and skill. The site is easy to navigate, and the clean
+          design reflects the designer's expertise. A great choice for anyone
+          looking for high-quality, professional graphic design services."
         tagline: Nishu
         subtitle: 'Maria Walters, Company'
         text: >-
