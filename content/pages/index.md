@@ -508,7 +508,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: example Two
+      - title: Example Two
         tagline: ''
         subtitle: ''
         text: |
