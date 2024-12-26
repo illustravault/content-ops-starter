@@ -293,8 +293,7 @@ sections:
       - title: >-
           "The portfolio highlights a variety of styles, demonstrating
           versatility and skill. The site is easy to navigate, and the clean
-          design reflects the designer's expertise. A great choice for anyone
-          looking for high-quality, professional graphic design services."
+          design reflects the designer's expertise."
         tagline: Nishu
         subtitle: 'Maria Walters, Company'
         text: >-
