@@ -246,8 +246,8 @@ sections:
       type: TitleBlock
     subtitle: we are good graphic design
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      A service that provides graphic design and guidance to startups your
+      posters,banner,etc
     actions:
       - label: Get started
         url: /
