@@ -3,7 +3,7 @@ title: PRICE
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: PRICE
       color: text-dark
       styles:
         self:
